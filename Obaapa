@@ -1,0 +1,20 @@
+<!-- Obaapa Flyer + Products -->
+<div style="text-align:center; background-color:#001f3f; padding:40px; color:white; font-family:sans-serif;">
+  <h1 style="color:#FFD700; font-size:36px;">OBAAPA CAR CARE</h1>
+  <h3 style="font-style:italic; margin-top:-10px;">Restore the Royal Freshness 👑</h3>
+  
+  <img src="https://chatgpt-images.s3.amazonaws.com/Obaapa-Banner-Final.png" alt="Obaapa Flyer" style="width:90%; max-width:700px; border-radius:10px; margin-top:20px;">
+
+  <p style="margin-top:30px; font-size:18px;"><strong>Available Products:</strong></p>
+  <ul style="list-style:none; padding:0; font-size:16px; line-height:1.8;">
+    <li>✅ <strong>Interior Cleaner</strong> – Powerful on stains, fresh on scent</li>
+    <li>✅ <strong>Car Wash Cleaner</strong> – Foamy and gentle with a brilliant shine</li>
+    <li>✅ <strong>Glass Cleaner</strong> – Clear, streak-free shine</li>
+    <li>✅ <strong>Glove Wash</strong> – Durable and soft, perfect for detailing</li>
+  </ul>
+
+  <p style="margin-top:20px; font-size:16px;">📞 <strong>WhatsApp Us:</strong> <a href="https://wa.me/233533730594" style="color:#00FFAA;">+233 533 730 594</a></p>
+  <a href="https://wa.me/233533730594" style="display:inline-block; margin-top:10px; padding:12px 20px; background-color:#FFD700; color:#000; font-weight:bold; border-radius:6px; text-decoration:none;">
+    Contact Us Now
+  </a>
+</div>
